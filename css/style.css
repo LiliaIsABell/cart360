@@ -1,7 +1,31 @@
-p{
-  font-size: 20px;
+
+
+body {
+  background-color: #66d1ff;
+}
+
+h1 {
+
+  font-size: 40px;
   text-indent: 30px;
-  margin: 20px;
-  margin-top: 80px;
-  
+  text-align: center;
+
+}
+
+div {
+
+  margin-top: 60px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 60px;
+  padding: 10px;
+  text-align: left;
+  line-height: 2;
+  background-color: #b3e8ff;
+
+
+}
+
+p1 {
+  /* font-style: TimesNewRoman; */
 }
