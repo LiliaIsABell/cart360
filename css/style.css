@@ -38,3 +38,8 @@ div {
   text-indent: 50px;
   /* font-style: TimesNewRoman; */
 }
+
+img{
+  width: 50%;
+  height: 50%;
+}
