@@ -1,19 +1,14 @@
-
-
 body {
   background-color: #66d1ff;
 }
 
 h1 {
-
   font-size: 40px;
   text-indent: 30px;
   text-align: center;
-
 }
 
-div {
-
+.blep {
   margin-top: 60px;
   margin-left: 400px;
   margin-right: 400px;
@@ -23,8 +18,6 @@ div {
   line-height: 3;
   background-color: #b3e8ff;
   font-size: 17px;
-
-
 }
 
 .p1 {
@@ -39,7 +32,15 @@ div {
   /* font-style: TimesNewRoman; */
 }
 
-img{
-  width: 50%;
-  height: 50%;
+/* img {
+  width: 40%;
+  height: 40%;
+} */
+
+.images {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  
+  /* background-color: DodgerBlue; */
 }
